@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/example/MatrixBenchmark.setup
+inline,org/example/MatrixBenchmark.testClassicMultiply
+inline,org/example/MatrixBenchmark.testParallelStreamsMultiply
+inline,org/example/MatrixBenchmark.testParallelThreadsMultiply
+inline,org/example/MatrixBenchmark.testVectorizedMultiply
